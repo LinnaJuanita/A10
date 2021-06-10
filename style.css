@@ -8,8 +8,8 @@
 .boton{
     position: fixed;
     z-index: 99999;
-    top: 23%;
+    top: 35%;
     left: 8.5%;
     width:83%;
-    height:34%;
+    height:27%;
 }
